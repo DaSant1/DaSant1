@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi!,  I'm Daniel Lopez
 
-<!--
-**DaSant1/DaSant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Industrial Management** | 💻 **Software Developer** | 📊 **Data Analyst**
 
-Here are some ideas to get you started:
+Soy un profesional apasionado por el desarrollo de software a medida, con experiencia en el manejo de altos volúmenes de datos y la creación de sistemas escalables que impulsan la toma de decisiones basada en analíticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+- **Frontend:** Angular, React, Vue.js, Bootstrap, Tailwind CSS
+- **Backend:** Laravel, Node.js, PHP, ASP.NET, C#
+- **Bases de Datos:** MySQL, SQL Server, MongoDB
+- **Análisis de Datos:** Power BI, Excel, Tableau, Python
+- **Otros:** Figma, Firebase, Git, Docker
+
+## 🚀 Proyectos destacados
+- 🔧 Sistema ERP personalizado en VBA + Excel
+- 📊 Dashboards de productividad con Power BI
+- 📦 Sistema de inventarios y operaciones con Laravel + Angular
+- ☁️ Despliegue en Cloudways con integración a analíticas
+
+
+
+---
+
+¡Gracias por visitar mi perfil!
